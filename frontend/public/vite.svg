@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Document base -->
+    <path d="M24 4H8C6.89543 4 6 4.89543 6 6V26C6 27.1046 6.89543 28 8 28H24C25.1046 28 26 27.1046 26 26V6C26 4.89543 25.1046 4 24 4Z" fill="white" stroke="#333333" stroke-width="1"/>
+    
+    <!-- Document fold -->
+    <path d="M24 4H16L14 6H8C6.89543 6 6 6.89543 6 8V26C6 27.1046 6.89543 28 8 28H24C25.1046 28 26 27.1046 26 26V6C26 4.89543 25.1046 4 24 4Z" fill="#F5F5F5" stroke="#333333" stroke-width="1"/>
+    
+    <!-- Lines -->
+    <path d="M10 12H22" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M10 16H22" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M10 20H18" stroke="#333333" stroke-width="1.5" stroke-linecap="round"/>
+</svg>
